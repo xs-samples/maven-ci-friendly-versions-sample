@@ -43,6 +43,7 @@
   </dependencyManagement>
 
   <modules>
+    <!-- 单模块工程，演示 -->
     <module>single</module>
     <module>module1</module>
     <module>module2</module>
